@@ -1,4 +1,4 @@
-# Project Directory Structure
+# Maven Project Directory Structure
 
 ## Learning Goals
 
@@ -16,7 +16,7 @@ this lesson to get started.
 
 The following is a basic structure of a Maven project:
 
-```plaintext
+```text
 └── ~/developer/example-app
 		├── pom.xml
 		├── src
